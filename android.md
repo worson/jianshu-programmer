@@ -29,8 +29,5 @@
 ## 开源项目
 
 # 技能清单
-- Java
-- C/C++
-- Python
-- OpenGL
+- Java、C/C++、Python、OpenGL
 
