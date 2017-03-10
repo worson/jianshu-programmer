@@ -1,0 +1,14 @@
+## 岔路显示效果分析
+***
+### 1、岔路被覆盖分析
+
+#### 效果图
+
+![效果图](/Users/wangshengxing/Desktop/Screen Shot 2017-02-10 at 11.50.15 AM.png)
+#### 白色底图
+![](/Users/wangshengxing/Desktop/Screen Shot 2017-02-10 at 11.50.06 AM.png)
+#### 结论
+**岔路边缘是被主路灰色底图给覆盖了，远端是渐隐成黑色了，因此在层级不变的基础上，不能保证不被覆盖。**
+
+***
+### 问题分类
