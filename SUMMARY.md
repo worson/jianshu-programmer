@@ -7,7 +7,7 @@
 
 * [Github Push](github-push.md)
 * [GitBook](gitbook.md)
-* [JitPack](用最简洁的办法管理你的代码仓库.md)
+* [JitPack仓库的使用](用最简洁的办法管理你的代码仓库.md)
 
 ## OpenGL
 
