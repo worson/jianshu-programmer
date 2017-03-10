@@ -19,8 +19,8 @@
 ## 工作
 
 * [TodoList](haloai/todolist.md)
-    * [arway问题点](haloai/arway问题点.markdown)
-        * [岔路显示效果分析](haloai/岔路显示效果分析.md)
+* [arway问题点](haloai/arway问题点.markdown)
+* [岔路显示效果分析](haloai/岔路显示效果分析.md)
 
 ## Others
 
