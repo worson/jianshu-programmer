@@ -1,5 +1,5 @@
 [TOC]
-![透明渐变的方案更改](/Users/wangshengxing/note/gitbook/Import/jianshu-programmer/haloai/device-2017-02-08-150008.png)
+![透明渐变的方案更改](assets/device-2017-02-08-150008.png)
 
 ## 导入
 > 在之前的项目当中，岔路使用的是黑色渐变，造成了渐变后的黑色仍然会覆盖掉其它图层的问题，本次主要来探讨解决此问题
@@ -23,7 +23,7 @@
 
 ## 三、不重复的贴图方式
 ### 1、基本实现
-![](/Users/wangshengxing/note/gitbook/Import/jianshu-programmer/haloai/road_render1.png)
+![](assets/road_render1.png)
 - 计算a\b\c\d四个点
 - 计算出与p1点最近的交点，计算出e点
 - 以e点为基点，在a与c点之间插入等长的三角形

@@ -4,9 +4,9 @@
 
 #### 效果图
 
-![效果图](/Users/wangshengxing/note/gitbook/Import/jianshu-programmer/haloai/ScreenShot2017-02-10at11.50.15AM.png)
+![效果图](assets/ScreenShot2017-02-10at11.50.15AM.png)
 #### 白色底图
-![](/Users/wangshengxing/note/gitbook/Import/jianshu-programmer/haloai/ScreenShot2017-02-10at11.50.06AM.png)
+![](assets/ScreenShot2017-02-10at11.50.06AM.png)
 #### 结论
 **岔路边缘是被主路灰色底图给覆盖了，远端是渐隐成黑色了，因此在层级不变的基础上，不能保证不被覆盖。**
 
