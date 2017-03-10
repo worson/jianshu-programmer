@@ -5,3 +5,8 @@
 git remote add origin https://github.com/worson/markdown-tool.git
 ```
 给仓库的url的增加一个别名origin
+
+# 推送
+```
+git push -u origin master
+```
