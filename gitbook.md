@@ -1,3 +1,7 @@
+# 建立项目
+```
+gitbook init
+```
 # 运行
 ```
 gitbook serve .
