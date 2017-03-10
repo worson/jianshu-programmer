@@ -16,3 +16,8 @@ gitbook build . ./output
 ```
 gitbook pdf .  # 重新执行命令生成pdf，目标文件为book.pdf
 ```
+---
+# 自定义python工具
+## 需求
+### 引用其他地方的文件
+- 抽离出图片列表
