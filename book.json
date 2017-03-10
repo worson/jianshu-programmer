@@ -1,8 +1,13 @@
 {
   "title": "gitbook tutorial",
-  "structure": {
-      "readme": "intro.md"
-    },
+  "author" : "wroson",
+  "description" : "记录Gitbook的配置和一些插件的使用",
+  "language" : "zh-hans",
+  "links" : {
+    "sidebar" : {
+        "Home" : "http://zhangjikai.com"
+    }
+  },
   "links": {
       "gitbook": false,
       "sharing": {
