@@ -10,7 +10,7 @@ gitbook serve .
 ```
 # 生成html
 ```
-gitbook build .
+gitbook build . ./output
 ```
 # 生成pdf
 ```
