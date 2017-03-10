@@ -10,3 +10,4 @@ git remote add origin https://github.com/worson/markdown-tool.git
 ```
 git push -u origin master
 ```
+推送仓库origin的master分支
