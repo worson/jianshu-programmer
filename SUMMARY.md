@@ -1,7 +1,8 @@
 # Summary
 
+## 目录
+
 * [Introduction](README.md)
-* [android](android.md)
 
 ## Tools
 
@@ -15,4 +16,8 @@
 * [OpenGL 教程\(2\)：坐标系统的转换](opengl-\(2\).md)
 * [Opengl Platform ](opengl-platform.md)
 
+## 工作
+
+
 ## Others
+
