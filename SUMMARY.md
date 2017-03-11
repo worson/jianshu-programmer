@@ -26,3 +26,5 @@
 
 
 ## Mac
+
+* [HomeBrew的使用](mac/homebrew.md)
