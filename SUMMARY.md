@@ -7,7 +7,7 @@
 
 ## Tools
 
-* [Github Push](tools/github-push.md)
+* [Github 使用](tools/github-push.md)
 * [GitBook](tools/gitbook.md)
 * [JitPack仓库的使用](tools/用最简洁的办法管理你的代码仓库.md)
 
