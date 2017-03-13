@@ -4,7 +4,6 @@
 
 * [说明](README.md)
 * [目录](SUMMARY.md)
-* [bilbi bibli.md](bilbi-biblimd.md)
 
 ## Tools
 
@@ -14,7 +13,7 @@
 
 ## OpenGL
 
-* [OpenGL ES 画三角形](opengl/OpenGL-ES教程\(1\)画三角形.md)
+* [OpenGL ES 画三角形](opengl/OpenGL-ES教程1画三角形.md)
 * [OpenGL 教程\(2\)：坐标系统的转换](opengl/opengl-%282%29.md)
 * [Opengl 相关平台介绍 ](opengl/opengl-platform.md)
 
