@@ -5,6 +5,7 @@
 * [说明](README.md)
 * [目录](SUMMARY.md)
 
+
 ## Tools
 
 * [Github 使用](tools/github-push.md)
@@ -13,8 +14,8 @@
 
 ## OpenGL
 
-* [OpenGL ES 画三角形](opengl/OpenGL\ ES教程(1)画三角形.md)
-* [OpenGL 教程\(2\)：坐标系统的转换](opengl/opengl-\(2\).md)
+* [\[OpenGL ES 画三角形\]\(opengl/OpenGL ES教程\(1\)画三角形.md\)](opengl/opengl-es-hua-san-jiao-5f625d28-opengl-opengl-es-jiao-7a0b28-1-hua-san-jiao-5f62-md.md)
+* [OpenGL 教程\(2\)：坐标系统的转换](opengl/opengl-%282%29.md)
 * [Opengl 相关平台介绍 ](opengl/opengl-platform.md)
 
 ## 工作
@@ -24,9 +25,8 @@
 * [岔路显示效果分析](haloai/岔路显示效果分析.md)
 * [渐变透明渲染](haloai/渐变透明渲染.md)
 * [岔路显示缺陷](haloai/岔路显示缺陷.md)
-## Others
-
 
 ## Mac
 
 * [HomeBrew的使用](mac/homebrew.md)
+
