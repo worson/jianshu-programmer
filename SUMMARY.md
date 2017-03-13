@@ -12,9 +12,9 @@
 
 ## OpenGL
 
-* [Rajawali 微小 OpenGL 开源库介绍](chapter1.md)
-* [OpenGL 教程\(2\)：坐标系统的转换](opengl-\(2\).md)
-* [Opengl Platform ](opengl-platform.md)
+* [Rajawali 微小 OpenGL 开源库介绍](opengl/chapter1.md)
+* [OpenGL 教程\(2\)：坐标系统的转换](opengl/opengl-\(2\).md)
+* [Opengl Platform ](opengl/opengl-platform.md)
 
 ## 工作
 
