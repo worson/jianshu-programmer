@@ -13,7 +13,7 @@
 
 ## OpenGL
 
-* [OpenGL ES教程1之画三角形](opengl/OpenGL-ES教程1之画三角形.md)
+* [OpenGL ES教程1之画三角形](opengl/教程1之画三角形.md)
 * [OpenGL 教程\(2\)：坐标系统的转换](opengl/opengl-%282%29.md)
 * [Opengl 相关平台介绍 ](opengl/opengl-platform.md)
 
