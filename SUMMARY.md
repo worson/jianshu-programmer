@@ -24,6 +24,7 @@
 * [岔路显示效果分析](haloai/岔路显示效果分析.md)
 * [渐变透明渲染](haloai/渐变透明渲染.md)
 * [岔路显示缺陷](haloai/岔路显示缺陷.md)
+* [arway优化渲染性能](haloai/arway优化渲染性能.md)
 
 ## Mac
 
