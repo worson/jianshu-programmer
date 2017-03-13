@@ -2,7 +2,7 @@
 
 ## 目录
 
-* [介绍](README.md)
+* [说明](README.md)
 * [目录](SUMMARY.md)
 
 ## Tools
