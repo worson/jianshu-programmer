@@ -13,7 +13,7 @@
 
 ## OpenGL
 
-* [Rajawali 微小 OpenGL 开源库介绍](opengl/OpenGL 教程(1)：Android\ OpenGL ES 之画三角形.md)
+* [OpenGL 教程(1)：Android OpenGL ES 之画三角形](opengl/OpenGL 教程(1)：Android\ OpenGL ES 之画三角形.md)
 * [OpenGL 教程\(2\)：坐标系统的转换](opengl/opengl-\(2\).md)
 * [Opengl 相关平台介绍 ](opengl/opengl-platform.md)
 
