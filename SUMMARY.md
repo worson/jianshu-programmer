@@ -14,7 +14,7 @@
 
 ## OpenGL
 
-* [\[OpenGL ES 画三角形\]\(opengl/OpenGL ES教程\(1\)画三角形.md\)](opengl/opengl-es-hua-san-jiao-5f625d28-opengl-opengl-es-jiao-7a0b28-1-hua-san-jiao-5f62-md.md)
+* [OpenGL ES 画三角形](opengl/OpenGL-ES教程\(1\)画三角形.md)
 * [OpenGL 教程\(2\)：坐标系统的转换](opengl/opengl-%282%29.md)
 * [Opengl 相关平台介绍 ](opengl/opengl-platform.md)
 
