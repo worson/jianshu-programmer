@@ -22,7 +22,7 @@
 * [arway问题点](haloai/arway问题点.markdown)
 * [岔路显示效果分析](haloai/岔路显示效果分析.md)
 * [渐变透明渲染](haloai/渐变透明渲染.md)
-
+* [岔路显示缺陷](haloai/岔路显示缺陷.md)
 ## Others
 
 
