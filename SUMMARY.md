@@ -21,6 +21,7 @@
 * [TodoList](haloai/todolist.md)
 * [arway问题点](haloai/arway问题点.markdown)
 * [岔路显示效果分析](haloai/岔路显示效果分析.md)
+* [渐变透明渲染](haloai/渐变透明渲染.md)
 
 ## Others
 
