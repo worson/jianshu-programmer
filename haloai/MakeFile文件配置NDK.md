@@ -1,5 +1,6 @@
 
 ## Android.mk 示例
+示例1
 ```
 LOCAL_PATH := $(call my-dir)
 
