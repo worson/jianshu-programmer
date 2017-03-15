@@ -21,5 +21,5 @@ externalNativeBuild {
         cmake {
             path "src/main/cpp/CMakeLists.txt"
         }
-    }
+}
 ```
