@@ -12,7 +12,7 @@ LOCAL_SRC_FILES  := HaloECP.cpp algorithm.cpp CrossRoad.cpp FileDataEnginePlaceh
 LOCAL_C_INCLUDES += $(LOCAL_PATH)
 LOCAL_C_INCLUDES += C:\files\OpenCV-android-sdk\sdk\native\jni\include\
 LOCAL_LDLIBS     := -llog -ldl -llibPath
-
+# 存储您要构建的模块的名称
 LOCAL_MODULE     := HaloECP
 LOCAL_PROGUARD_ENABLED:= disabled
 include $(BUILD_SHARED_LIBRARY)
