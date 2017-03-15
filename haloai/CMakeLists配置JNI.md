@@ -1,5 +1,6 @@
 
 ## 指定外部编译工具
+在build.gradle中
 ```
 defaultConfig {
         applicationId 'com.example.hellojni'
@@ -11,6 +12,14 @@ defaultConfig {
             cmake {
                 arguments '-DANDROID_TOOLCHAIN=clang'
             }
+        }
+    }
+```
+
+```
+externalNativeBuild {
+        cmake {
+            path "src/main/cpp/CMakeLists.txt"
         }
     }
 ```
