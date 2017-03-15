@@ -27,6 +27,7 @@
 * [arway优化渲染性能](haloai/arway优化渲染性能.md)
 * [高德地图渲染分析](haloai/高德地图渲染分析.md)
 * [Android OpenGL相关View对比](haloai/Android_OpenGL相关View.md)
+* [CMakeLists配置JNI](haloai/CMakeLists配置JNI.md)
 
 ## Mac
 
